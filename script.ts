@@ -3,3 +3,5 @@ function osszeadas(szam1,szam2:number):number{
 
 
 }
+
+/*Komment */
